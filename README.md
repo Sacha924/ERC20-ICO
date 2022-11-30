@@ -37,6 +37,9 @@ Your objective is to gather as many TD-ERC20-101 points as possible. Please note
 - Test your deployment in Ganache `truffle migrate`
 - Deploy on goerli `truffle migrate --network goerli --skip-dry-run`
 
+
+Note : I didn't push the truffle.config because my private key was inside this file. But to hide your own Private key you can add a .env file
+
 ## Points list
 
 ### Setting up
